@@ -24,6 +24,15 @@
     position: absolute; left: 50%; top: 50%;
     transform: translate(0%, -50%);
   }
+/* Test block for debugging image visibility */
+.image {
+  display: block;
+  width: auto;
+  height: auto;
+  max-width: 100%;
+  max-height: 100%;
+  border: 2px solid red; /* Visual indicator for debugging */
+}
   </style>
 </head>
 <body>
