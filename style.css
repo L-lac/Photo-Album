@@ -1,11 +1,5 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>3D Photo Gallery</title>
-  <style>
-    body {
+
+     body {
       height: 100vh;
       width: 100vw;
       background-color: black;
@@ -33,9 +27,4 @@
   max-height: 100%;
   border: 2px solid red; /* Visual indicator for debugging */
 }
-  </style>
-</head>
-<body>
-  <!-- Your content goes here -->
-</body>
-</html>
+
