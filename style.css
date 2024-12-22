@@ -33,6 +33,12 @@
   max-height: 100%;
   border: 2px solid red; /* Visual indicator for debugging */
 }
+.image{
+  background-color: lightblue;
+  width: 200px;
+  height: 300px;
+}
+
 </style>
 </head>
 <body>
