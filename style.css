@@ -18,8 +18,13 @@
       object-fit: cover;
       object-position: center;
   }
+.sidebar {
+  flex: 0 0 auto;
+  width: 250px;
+}
   #image-track {
-    display: block; /* disabled flexbox */
+    flex: 1 1 auto;
+    display: flex; /* disabled flexbox */
     gap: 4vmin;
     position: absolute; left: 50%; top: 50%;
     transform: translate(0%, -50%);
